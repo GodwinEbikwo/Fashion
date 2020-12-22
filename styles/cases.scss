@@ -26,7 +26,7 @@
     line-height: 3.8vw;
     letter-spacing: -0.03em;
     text-transform: none;
-    font-family: "NeueWorld-CondensedRegular";
+    font-family: "NW-Regular", sans-serif;
     @include for-size(phone-only) {
       font-size: 5vw;
       letter-spacing: -0.01em;
@@ -139,7 +139,7 @@
   line-height: 2.4vw;
   display: block;
   letter-spacing: -0.03em;
-  font-family: "NeueWorld-CondensedRegular";
+  font-family: "NW-Regular", sans-serif;
   @include for-size(phone-only) {
     font-size: 8vw;
     line-height: 4vw;
@@ -185,7 +185,7 @@
 }
 
 .item-no {
-  font-family: "NeueWorld-CondensedRegular";
+  font-family: "NW-Regular", sans-serif;
   font-size: 27vw;
   line-height: 19vw;
   font-weight: 700;
@@ -194,7 +194,7 @@
 }
 
 .number {
-  font-family: "NeueWorld-CondensedRegular";
+  font-family: "NW-Regular", sans-serif;
   color: #333;
   font-size: 27vw;
   line-height: 19vw;
