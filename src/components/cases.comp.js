@@ -6,18 +6,14 @@ export default function Cases() {
     <section className="cases" id="contact">
       <div className="intro h">
         <div className="left">
-          <h3>
-            At Virgofolio, we exist to ideate, create, and visualise a new era
-            of realities.
-          </h3>
+          <h3>Projects 2020</h3>
+          <h3>Projects 2020</h3>
         </div>
         <div className="right">
           <div className="rightText">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit,
-            error laborum, earum accusantium voluptate ipsam nulla illum
-            architecto neque nobis et rerum ducimus, maxime magnam! Consectetur
-            eum, totam aperiam cum dolorem ex ipsum molestiae repellendus est
-            quas sapiente ea sequi!
+            Below are some of my projects, where I showcase different
+            technologies learnt in the crazy year of 2020 (skip if you just want
+            to go the my blog)
           </div>
         </div>
       </div>
@@ -34,8 +30,8 @@ export default function Cases() {
             <div className="item-w">
               <div className="item-b">
                 <div className="titles">
-                  <h3 className="item-title">Annabel</h3>
-                  <h3 className="item-title sub">Coute</h3>
+                  <h3 className="item-title">TweentyOne</h3>
+                  <h3 className="item-title sub">D&D</h3>
                 </div>
 
                 <div className="vp">
@@ -64,8 +60,8 @@ export default function Cases() {
             <div className="item-w no2">
               <div className="item-b">
                 <div className="titles">
-                  <h3 className="item-title">ANNA</h3>
-                  <h3 className="item-title sub">PAUL</h3>
+                  <h3 className="item-title">Titan</h3>
+                  <h3 className="item-title sub">Marketing</h3>
                 </div>
                 <div className="vp">
                   <div className="vp-cap">
@@ -92,8 +88,8 @@ export default function Cases() {
             <div className="item-w no3">
               <div className="item-b">
                 <div className="titles">
-                  <h3 className="item-title">Marie</h3>
-                  <h3 className="item-title sub">Timothé</h3>
+                  <h3 className="item-title">Plannify</h3>
+                  <h3 className="item-title sub">Landing page</h3>
                 </div>
                 <div className="vp">
                   <div className="vp-cap">
@@ -114,8 +110,8 @@ export default function Cases() {
           width={499}
           height={600}
           num={4}
-          name={"Niccolo"}
-          surname={"Miranda"}
+          name={"Segun"}
+          surname={"Portfolio"}
         />
 
         {/* <Wrapper3
@@ -131,8 +127,8 @@ export default function Cases() {
           width={550}
           height={500}
           num={5}
-          name={"Marie"}
-          surname={"Timothé"}
+          name={"A&D"}
+          surname={"Wedding site"}
         />
       </div>
     </section>
