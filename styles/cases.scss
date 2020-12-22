@@ -190,7 +190,6 @@
   line-height: 19vw;
   font-weight: 700;
   text-align: left;
-  font-weight: 400;
 }
 
 .number {
@@ -218,7 +217,7 @@
 }
 
 .itemimg-2 {
-  width: 25vw;
+  width: 25.5vw;
   float: left;
   margin: 0 0 10px;
   /* filter: grayscale(100%); */
@@ -246,7 +245,8 @@
 .number.no2 {
   font-size: 18vw;
   text-align: right;
-  font-family: "Neue World";
+  font-family: "NW-Regular", sans-serif;
+  font-weight: 700;
 }
 
 /* wrapper 3 */

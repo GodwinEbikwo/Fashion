@@ -6,14 +6,13 @@ export default function Cases() {
     <section className="cases" id="contact">
       <div className="intro h">
         <div className="left">
-          <h3>Projects 2020</h3>
-          <h3>Projects 2020</h3>
+          <h3>Projects 20 → </h3>
+          <h3>TWENTY</h3>
         </div>
         <div className="right">
           <div className="rightText">
             Below are some of my projects, where I showcase different
-            technologies learnt in the crazy year of 2020 (skip if you just want
-            to go the my blog)
+            technologies learnt in the crazy year of 2020.
           </div>
         </div>
       </div>
@@ -36,7 +35,7 @@ export default function Cases() {
 
                 <div className="vp">
                   <div className="vp-cap">
-                    <div className="vp-t">View project</div>
+                    <div className="vp-t">View </div>
                   </div>
                 </div>
                 <div className="capline"></div>
@@ -65,7 +64,7 @@ export default function Cases() {
                 </div>
                 <div className="vp">
                   <div className="vp-cap">
-                    <div className="vp-t">View project</div>
+                    <div className="vp-t">View </div>
                   </div>
                 </div>
               </div>
@@ -93,7 +92,7 @@ export default function Cases() {
                 </div>
                 <div className="vp">
                   <div className="vp-cap">
-                    <div className="vp-t">View project</div>
+                    <div className="vp-t">View </div>
                   </div>
                 </div>
               </div>
@@ -154,7 +153,7 @@ const Wrapper3 = ({ src, width, height, num, name, surname }) => {
               </div>
               <div className="vp">
                 <div className="vp-cap">
-                  <div className="vp-t">View project</div>
+                  <div className="vp-t">View </div>
                 </div>
               </div>
             </div>
@@ -188,7 +187,7 @@ const Wrapper4 = ({ src, width, height, num, name, surname }) => {
               </div>
               <div className="vp">
                 <div className="vp-cap">
-                  <div className="vp-t">View project</div>
+                  <div className="vp-t">View </div>
                 </div>
               </div>
             </div>
@@ -222,7 +221,7 @@ const Wrapper5 = ({ src, width, height, num, name, surname }) => {
               </div>
               <div className="vp">
                 <div className="vp-cap">
-                  <div className="vp-t">View project</div>
+                  <div className="vp-t">View </div>
                 </div>
               </div>
             </div>
