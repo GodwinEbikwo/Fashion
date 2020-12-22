@@ -299,13 +299,13 @@
 /* number 4 */
 
 .wrapper4 {
-  top: 36vw;
+  top: 56vw;
   left: 28vw;
   float: left;
   position: relative;
 
   @include for-size(phone-only) {
-    top: 3rem;
+    top: 17vw;
     left: 25vw;
   }
 }
@@ -345,7 +345,7 @@
   @include for-size(phone-only) {
     right: 35vw;
     top: -5vw;
-    left: 4vw;
+    left: 1vw;
   }
 }
 
