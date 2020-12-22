@@ -7,7 +7,7 @@ export default function Cases() {
       <div className="intro h">
         <div className="left">
           <h3>Projects 20 → </h3>
-          <h3>TWENTY</h3>
+          <h3>TWENTY ↓</h3>
         </div>
         <div className="right">
           <div className="rightText">

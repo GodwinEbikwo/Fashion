@@ -12,6 +12,9 @@
 }
 .intro.h {
   padding-left: 11.3vw;
+  @include for-size(phone-only) {
+    padding-left: 5.3vw;
+  }
 }
 
 .left {
@@ -29,7 +32,7 @@
     text-transform: none;
     font-family: "NW-Regular", sans-serif;
     @include for-size(phone-only) {
-      font-size: 5vw;
+      font-size: 5.9vw;
       letter-spacing: -0.01em;
       line-height: 5.5vw;
     }
@@ -38,11 +41,9 @@
 
 .right {
   max-width: 40vw;
-  margin-left: 7vw;
   float: left;
   @include for-size(phone-only) {
-    max-width: 44vw;
-    margin-left: 5vw;
+    max-width: 48vw;
   }
 }
 
@@ -53,8 +54,8 @@
   font-weight: 300;
   padding-top: 1vw;
   @include for-size(phone-only) {
-    font-size: 3vw;
-    line-height: 4vw;
+    font-size: 3.3vw;
+    line-height: 1.4;
   }
 }
 
