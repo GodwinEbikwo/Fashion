@@ -305,7 +305,7 @@
   position: relative;
 
   @include for-size(phone-only) {
-    top: 0vw;
+    top: 3rem;
     left: 25vw;
   }
 }
@@ -343,6 +343,7 @@
   float: left;
   position: relative;
   @include for-size(phone-only) {
+    right: 35vw;
     top: -5vw;
     left: 4vw;
   }
