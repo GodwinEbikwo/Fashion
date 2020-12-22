@@ -343,6 +343,7 @@
   position: relative;
   @include for-size(phone-only) {
     left: 1vw;
+    left: 40vw;
   }
 }
 
