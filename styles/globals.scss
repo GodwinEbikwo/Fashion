@@ -1,6 +1,7 @@
 @font-face {
   font-family: "NW-Regular";
-  src: url("../public/fonts/NeueWorld-CondensedRegular.otf");
+  src: local("Neue World"),
+    url("../public/fonts/NeueWorld-CondensedRegular.otf");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -9,6 +10,7 @@
 @import "../src/utils/mixins.scss";
 @import "./hero.scss";
 @import "./cases.scss";
+@import "./navstyle.scss";
 
 * {
   margin: 0;
@@ -40,8 +42,7 @@ h3 {
 }
 
 .container {
-  max-width: 78rem;
-  margin: 0 auto;
+  max-width: 97.375rem;
 }
 
 .container--pall {
@@ -185,4 +186,8 @@ h3 {
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.nav-bg {
+  background-color: "red";
 }
